@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Testing</title>
+<link rel="stylesheet" type="text/css" href="C:\Users\con_gsidhaar\Desktop\bootstrap.css">
+
+</head>
+
+<body>
+
+<div class="jumbotron">
+	<p>HI this is for testing</p>
+
+	<button type="button" class="btn btn-primary btn-lg">Click</button>
+
+</div>
+
+<h1>
+Hi
+
+</h1>
+
+</body>
+
+</html>
